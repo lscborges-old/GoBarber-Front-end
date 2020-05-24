@@ -14,10 +14,10 @@ import { Container, Content, Background } from './styles';
 
 const SignUp: React.FC = () => {
   const formRef = useRef<FormHandles>(null);
-  console.log(formRef);
 
   const handleSubmit = useCallback(async (data: object) => {
     try {
+      formRef.current?.setErrors({});
       const schema = Yup.object().shape({
         name: Yup.string().required('Nome obrigatório'),
         email: Yup.string()
@@ -31,7 +31,6 @@ const SignUp: React.FC = () => {
     } catch (err) {
       const errors = getValidationErrors(err);
       formRef.current?.setErrors(errors);
-      console.log(err);
     }
   }, []);
 
