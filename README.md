@@ -20,7 +20,7 @@
 * [React ⚛️](https://pt-br.reactjs.org/)
 * [Typescript :blue_book:](https://www.typescriptlang.org/)
 * [Styled-Components 💅🏻](https://styled-components.com/)
-* [yup :wrench:](https://github.com/jquense/yup)
+* [Yup :wrench:](https://github.com/jquense/yup)
 * [Unform :wrench:](https://unform.dev/)
 * [Axios :wrench:](https://github.com/axios/axios)
 * [Polished :wrench:](https://polished.js.org/)
