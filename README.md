@@ -14,23 +14,17 @@
 
 ## Others repositories of this project :books:
 * <a href="https://github.com/lscborges1/GoBarber-Back-end">GoBarber API</a>
-* <a href="https://github.com/lscborges1/GoBarber-Front-end">Mobile Front-end</a> : 
+* <a href="https://github.com/lscborges1/GoBarber-Front-end">Mobile Front-end</a>
 
 ## Technologies Used
-* <a href="https://nodejs.org/en/" >Node.js<a>
-* <a href="https://www.typescriptlang.org/" >Typescript<a>
-* <a href="  https://github.com/brianc/node-postgres" > Postgres <a>
-* <a href="https://github.com/mongodb/node-mongodb-native" > Mongodb <a>
-* <a href="https://github.com/NodeRedis/node-redis" > Redis <a>
-* <a href="https://github.com/aws/aws-sdk-js" >AWS SDK<a>
-* <a href="https://nodemailer.com/about/" > Nodemailer <a>
-* <a href="https://github.com/dcodeIO/bcrypt.js#readme" > Bcrypt.js <a>
-* <a href="http://expressjs.com/" > Express <a>
-* <a href="https://handlebarsjs.com/" > Handlebars <a>
-* <a href="https://github.com/auth0/node-jsonwebtoken#readme" > JWT <a>
-* <a href="https://github.com/expressjs/multer#readme" > Multer <a>
-* <a href="https://github.com/Microsoft/tsyringe#readme" > Tsyringe <a>
-* <a href="https://github.com/typeorm/typeorm#readme" > Typeorm <a>
+* [React ⚛️](https://pt-br.reactjs.org/)
+* [Typescript :blue_book:](https://www.typescriptlang.org/)
+* [Styled-Components 💅🏻](https://styled-components.com/)
+* [yup :wrench:](https://github.com/jquense/yup)
+* [Unform :wrench:](https://unform.dev/)
+* [Axios :wrench:](https://github.com/axios/axios)
+* [Polished :wrench:](https://polished.js.org/)
+* [Jest 🃏](https://jestjs.io/)
 
 ## Install
 
@@ -39,20 +33,19 @@ yarn install
 ```
 
 ## Usage
-
+> Running the application on local host
 ```sh
-yarn run start
+yarn start
 ```
+> An instance of the application API must be running to access all functionalities 
 
 ## Run tests
 
 ```sh
-yarn run test
+yarn test
 ```
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
